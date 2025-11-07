@@ -1,4 +1,10 @@
+<<<<<<< HEAD
+ai_symptom_analyzer
+=======
 ﻿# HTF25-Team-364
+
+## Live Demo
+🌐 Check out the deployed website: https://htf25-team-364.onrender.com
 
 ## GitHub submission guide
 
@@ -66,3 +72,4 @@ In this Readme, you will find a guide on how to fork this Repository, add files 
 </details>
 
 ## Thanks for participating!
+>>>>>>> 71e9d53f7921b041e59686563500b85302370ac7
